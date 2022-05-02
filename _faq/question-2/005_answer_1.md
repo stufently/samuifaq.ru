@@ -1,7 +1,7 @@
 ---
 question: Лучшие пляжи для отдыха на Самуи?
 ldjson: yes
-hashtag: question
+hashtag: plazjsamui
 ---
 
 
