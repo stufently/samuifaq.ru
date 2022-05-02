@@ -1,7 +1,7 @@
 ---
 question: Где посмотреть погоду на Самуи, через веб камеры онлайн в реальном времени?
 ldjson: yes
-hashtag: question
+hashtag: geocam
 ---
 
 
