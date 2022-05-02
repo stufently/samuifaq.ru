@@ -5,4 +5,4 @@ hashtag: question
 ---
 
 
-Красоты и погоду Самуи вы можете посмотреть на сайте [GeoCam](https://www.geocam.ru/in/ko-samui/)
+Красоты и погоду Самуи вы можете посмотреть на сайте [GeoCam](https://www.geocam.ru/in/ko-samui/).
