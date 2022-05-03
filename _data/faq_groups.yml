@@ -1,15 +1,15 @@
 ---
 - title: Погода
-  hashtag: question-1
+  hashtag: pogoda
   path: question-1
 - title: Отдых и развлечения 
-  hashtag: question-2
+  hashtag: otdyh
   path: question-2
 - title: Транспорт 
-  hashtag: question-3
+  hashtag: transport
   path: question-3
 - title: Дети 
-  hashtag: question-3
+  hashtag: deti
   path: question-4
 - title: Проживание
   hashtag: prozhivanie
