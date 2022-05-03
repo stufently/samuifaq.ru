@@ -68,6 +68,12 @@ hashtag: massazh
 
 Наибольшее скопление массажных салонов — на основных торговых улицах в районах пляжей Чавенг, Ламай, Мэнам, Бопхут.
 
+Siam Relax - Tambon Bo Put, Ko Samui District, Surat Thani 84320, Таиланд
+
+Cyan Spa - 65/1 Moo1 Fisherman’s Village Bophut Suratthani, Bo Put, 84320, Таиланд +66945951017
+
+Chaokan Thai Massage - Ang Thong, Ko Samui District, Surat Thani 84140, Таиланд +66801437704
+
 ### ПРОТИВОПОКАЗАНИЯ ДЛЯ МАССАЖА
 
 Хронические заболевания;
