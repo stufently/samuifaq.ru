@@ -6,7 +6,7 @@ hashtag: magazinytc
 
 # Торговые центры на Самуи
 
-#### Central Festival Samui
+## Central Festival Samui
 
 Часы работы: 11:00 — 23:00.
 
