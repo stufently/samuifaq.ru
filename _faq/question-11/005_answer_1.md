@@ -4,4 +4,4 @@ ldjson: yes
 hashtag: mapsamui
 ---
 
-![Карта на Самуи](https://samuifaq.ru/blob/main/assets/mapsamui.jpg)
+![Карта на Самуи](https://samuifaq.ru/assets/samuimap.jpg)
