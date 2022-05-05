@@ -1,5 +1,5 @@
 ---
-question: Можно ли купаться и на каких пляжах Самуи?
+question: Можно ли купаться Зимой и на каких пляжах Самуи?
 ldjson: yes
 hashtag: kupaniezimoj
 ---
