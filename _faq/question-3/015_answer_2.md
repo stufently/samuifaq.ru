@@ -1,5 +1,5 @@
 ---
-question: КАК ДОБРАТЬСЯ С САМУИ НА ПАНГАН И ОБРАТНО?
+question: Как добраться Самуи на Панган и обратно?
 ldjson: yes
 hashtag: dopangana
 ---
