@@ -6,3 +6,5 @@ hashtag: geocam
 
 
 Красоты и погоду Самуи вы можете посмотреть на сайте [youwebcams](http://youwebcams.org/online/tag/samui/).
+
+![kamerapogody](https://samuifaq.ru/assets/kamerapogody.jpg)
