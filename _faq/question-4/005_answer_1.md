@@ -15,6 +15,8 @@ hashtag: akvapark
 
 Для семей с двумя детьми действует особый тариф, более выгодный. Также можно купить абонемент на длительное время, что имеет смысл для тех, кто приезжает в Таиланд надолго, например, на всю зиму. 
 
+![PinkElephant](https://samuifaq.ru/assets/PinkElephant.jpg)
+
 Адрес: 8/41 Moo 1, Maenam Soi 1, Koh Samui, Amphoe Koh Sa-Mui, Surat Thani, Thailand 84330
 
 Телефон: +66 (0) 77423548
