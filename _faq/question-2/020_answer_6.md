@@ -58,7 +58,11 @@ hashtag: EkskursiinaSamui
 
 * Храм Wat Plai Laem (Chinese lady monk)
 
+![WatPlaiLaem](https://samuifaq.ru/assets/WatPlaiLaem.jpg)
+
 * Камни "Бабушка и Дедушка"
+
+![babushka-i-dedushka](https://samuifaq.ru/assets/babushkaidedushka.jpg)
 
 Знаменитые камни на пляже Ламай.
 
