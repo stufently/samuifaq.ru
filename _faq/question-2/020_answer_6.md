@@ -54,6 +54,8 @@ hashtag: EkskursiinaSamui
 
 * Храм Большой Будда (Big Buddha)
 
+![otdix](https://samuifaq.ru/assets/otdix.jpg)
+
 * Храм Wat Plai Laem (Chinese lady monk)
 
 * Камни "Бабушка и Дедушка"
@@ -79,3 +81,9 @@ hashtag: EkskursiinaSamui
 * Обзорные площадки в горах 360
 
 Можно сделать красивые фотографии с самых высоких точек острова, наивысшая точка 650 метров - храм Pra Buddha Teepangkorn.
+
+Взрослый - 1250 THB
+
+Детский - 950 THB
+
+
