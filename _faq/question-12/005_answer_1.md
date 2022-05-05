@@ -10,7 +10,7 @@ hashtag: dobratsaydosamui
 
 1. [Bangkok Airways](https://www.bangkokair.com/)
 
-[Самолет Airways](http://samuifaq.ru/assets/samoletbangkokairways.jpg)
+![Самолет Airways](http://samuifaq.ru/assets/samoletbangkokairways.jpg)
 
 Дешевле всего прямой перелет на Самуи авиакомпанией Bangkok Airways. Из Бангкока (аэропорт Суварнабхуми) их билеты можно купить в районе 3200 бат (1 бат почти равен 1 рублю). Вылеты осуществляются каждые 30-60 минут, начиная с 6 утра и заканчивая 21 ч. Время полёта 1 ч или 1 ч 30 мин, в зависимости от самолёта – винтовые летят на полчаса дольше.
 
