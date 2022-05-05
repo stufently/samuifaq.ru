@@ -45,9 +45,9 @@ hashtag: plazjsamui
 
 [Пляж БангРак](https://goo.gl/maps/wtw2LwgYeg7EVHyJ9) - БангРак расположен на севере Самуи, в одном из наиболее густонаселенных и оживленных районе острова. Большая плотность застройки на берегу ограничивает доступ к морю. В основном здесь стоят рестораны, коммерческие организации, два пирса, резорты и бары. Отлично развитая инфраструктура и пляжные развлечения на берегу.
 
-![PlyazhBangRak](https://samuifaq.ru/assets/PlyazhBangRak.jpg)
+![PlyazhBangRak](https://samuifaq.ru/assets/plyazhbangrak.jpg)
 
-![PlyazhBangRak](https://samuifaq.ru/assets/PlyazhBangRak2.jpg)
+![PlyazhBangRak](https://samuifaq.ru/assets/plyazhbangrak2.jpg)
 
 
 [Пляж Самронг](https://goo.gl/maps/5AmDw9cBmQKeV2Vx7) - Самронг спрятан за стенами единственного на берегу отеля на севере Самуи. Доступ к пляжу не ограничен администрацией отеля. Интереса особого не представляет, тем более, если вы живете в другом месте. Пляж неглубокий, покрыт водорослями и камнями.
