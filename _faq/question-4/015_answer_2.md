@@ -58,8 +58,11 @@ Paradise Park Farm находится на горе Khao Pom. К парку ве
 Катание на слоне 30 минут 700 (Батов) 1 час 1200 (Батов)
 
 Адрес: Na Mueang, Ko Samui Surat Thani 84140, Thailand 
+
 Телефон: 66-077-424-098 
+
 E-mail: namuangsafarisamui@gmail.com 
+
 Официальный сайт: http://www.namuangsafarisamui.com/
 
 ### КАК ДОБРАТЬСЯ 
