@@ -8,7 +8,7 @@ hashtag: EkskursiinaSamui
 
 Состав пакета:
 
-## [Национальный Морской Парк Ангтонг (скоростной катер)](https://isamui.ru/catalog/excursions/national-marine-park-angtong-speed-boat/)
+### [Национальный Морской Парк Ангтонг (скоростной катер)](https://isamui.ru/catalog/excursions/national-marine-park-angtong-speed-boat/)
 
 * Тип экскурсии: Морская экскурсия
 
@@ -20,7 +20,7 @@ hashtag: EkskursiinaSamui
 
 * Английский гид: Ежедневно
 
-## [Koh Tao и Koh Nangyuan - Райские острова (скоростной катер)](https://isamui.ru/catalog/excursions/koh-tao-and-koh-nangyuan-speed-boat/)
+### [Koh Tao и Koh Nangyuan - Райские острова (скоростной катер)](https://isamui.ru/catalog/excursions/koh-tao-and-koh-nangyuan-speed-boat/)
 
 * Тип экскурсии: Морская экскурсия
 * Бесплатный трансфер из дома: Да
@@ -28,7 +28,7 @@ hashtag: EkskursiinaSamui
 * Русский гид: Четверг
 * Английский гид: Ежедневно
 
-# [Обзорный тур по острову Самуи (Все включено)](https://isamui.ru/catalog/excursions/safari-jeep-tour-around-koh-samui/)
+### [Обзорный тур по острову Самуи (Все включено)](https://isamui.ru/catalog/excursions/safari-jeep-tour-around-koh-samui/)
 * Тип экскурсии: По острову
 * Бесплатный трансфер из дома: Да
 * Язык тура: Английский/Русский
@@ -36,7 +36,7 @@ hashtag: EkskursiinaSamui
 * Английский гид: Ежедневно
 
 
-# Обзорный тур по острову Самуи (Без животных)
+### [Обзорный тур по острову Самуи (Без животных)](https://isamui.ru/catalog/excursions/safari-jeep-tour-around-the-island-koh-samui-no-animals/)
 
 * Тип экскурсии: По острову
 
