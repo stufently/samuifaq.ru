@@ -1,5 +1,5 @@
 ---
-question: Магазины и торговые центры Самуй?
+question: Магазины и торговые центры Самуи?
 ldjson: yes
 hashtag: magazinytc
 ---
